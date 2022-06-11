@@ -1,0 +1,13 @@
+{
+  "welcome": "Welcome!",
+  "more": "More",
+  "details": "Details",
+  "msgBuyNot":"Purchase, functionality not implemented",
+  "undo" : "Undo",
+  "name": "Name",
+  "description" : "Description",
+  "notInternet" : "No Intenet",
+  "SpaceXapp" : "Space X app",
+  "showMore" : "show more",
+  "showLess" : "show less"
+}
